@@ -1,6 +1,4 @@
-# ResearchRabbit
-
-# 🧠 Research Rabbit
+# 🧠 ResearchRabbit
 
 **Research Rabbit** is an AI-powered personal research assistant that helps users search, summarize, and organize vast amounts of information. Designed for developers, researchers, and curious minds, it combines intelligent agents and powerful language models to streamline your research process.
 
